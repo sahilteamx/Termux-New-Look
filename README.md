@@ -4,9 +4,9 @@
 ## Telegram Group : https://t.me/sahilteamx
 
 
-<img src="https://github.com/sahilteamx/Termux-New-Look/raw/master/images/Look1.png" style="width:300px;height:400px;">
+<img src="https://github.com/rooted-cyber/Termux-New-Look/raw/master/images/Look1.png" style="width:300px;height:400px;">
 # Installation in termux
-<img src="https://github.com/sahilteamx/Termux-New-Look/raw/master/images/Look2.png" style="width:400px;heigt:200px;">></img>
+<img src="https://github.com/rooted-cyber/Termux-New-Look/raw/master/images/Look2.png" style="width:400px;heigt:200px;">></img>
  <pre> $ apt update
  $ apt upgrade
  $ apt install git
