@@ -1,7 +1,7 @@
 # Termux-New-Look V4.5
 ## Re-Open Whatsapp Group : https://chat.whatsapp.com/JH8SqlhcIeX0IeC1t2RWmu
 
-## Telegram Group : https://t.me/sahilteamx
+## Telegram Group : https://t.me/sahilteamxgroup
 
 
 <img src="https://github.com/rooted-cyber/Termux-New-Look/raw/master/images/Look1.png" style="width:300px;height:400px;">
